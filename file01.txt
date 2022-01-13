@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 new line from dev
+=======
+new line from fixw
+>>>>>>> fix
